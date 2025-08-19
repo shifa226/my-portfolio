@@ -931,3 +931,7 @@ section {
         max-width: 250px;
     }
 }
+.profile-image {
+    width: 100%;
+    height: auto;
+}
